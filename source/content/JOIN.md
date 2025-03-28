@@ -47,10 +47,9 @@ Using the simple following example:
 </div>
 
 
-The following show the results for each join on these tables (joining on employee_id).
+The following show the results for each join on these tables (joining on `employee_id`).
 {{% raw %}}
   <div style="width: 32%;">
-
     <h3>INNER JOIN Result</h3>
     <table>
       <thead>
@@ -73,13 +72,11 @@ The following show the results for each join on these tables (joining on employe
         </tr>
       </tbody>
     </table>
-
   </div>
   {{% raw %}}
 *NOTE: No NULLs, missing information from both databases.*
 {{% raw %}}
   <div style="width: 32%;">
-
     <h3>LEFT JOIN Result</h3>
     <table>
       <thead>
@@ -112,9 +109,8 @@ The following show the results for each join on these tables (joining on employe
         </tr>
       </tbody>
     </table>
-
   </div>
-  {{% raw %}}
+ 
 *NOTE: 
 	- Contains all rows from left database.
 	- Missing information from right databases.
