@@ -14,6 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "FOREIGN KEY.md",
+                "file": "FOREIGN KEY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,6 +29,7 @@
                 }
               },
               "icon": "lucide-file",
+              "title": "FOREIGN KEY"
               "title": "FOREIGN KEY"
             }
           }
@@ -105,6 +107,7 @@
               "type": "backlink",
               "state": {
                 "file": "FOREIGN KEY.md",
+                "file": "FOREIGN KEY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +118,7 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for FOREIGN KEY"
+              "title": "Backlinks for FOREIGN KEY"
             }
           },
           {
@@ -124,10 +128,12 @@
               "type": "outgoing-link",
               "state": {
                 "file": "FOREIGN KEY.md",
+                "file": "FOREIGN KEY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+              "title": "Outgoing links from FOREIGN KEY"
               "title": "Outgoing links from FOREIGN KEY"
             }
           },
@@ -153,11 +159,13 @@
               "type": "outline",
               "state": {
                 "file": "FOREIGN KEY.md",
+                "file": "FOREIGN KEY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+              "title": "Outline of FOREIGN KEY"
               "title": "Outline of FOREIGN KEY"
             }
           }
@@ -181,10 +189,12 @@
     }
   },
   "active": "47ef711f7e8c1d64",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "index.md",
     "GROUP BY.md",
     "category-folder/Some note.md",
+    "category-folder/index.md",
     "category-folder/index.md",
     "category-folder"
   ]
