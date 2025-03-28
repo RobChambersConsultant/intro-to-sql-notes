@@ -59,12 +59,48 @@
             "id": "9db54d6ac4eb3531",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Solving SQL Flowchart.md"
+                "file": "AGGREGATE FUNCTIONS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Solving SQL Flowchart"
+              "icon": "lucide-file",
+              "title": "AGGREGATE FUNCTIONS"
+            }
+          },
+          {
+            "id": "d0a2d9d2cadf4aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DECIMAL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DECIMAL"
             }
           },
           {
@@ -101,7 +137,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,16 +288,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "d0a2d9d2cadf4aa7",
   "lastOpenFiles": [
-    "COUNT.md",
+    "DECIMAL.md",
     "AGGREGATE FUNCTIONS.md",
+    "Excalidraw/Solving SQL Flowchart.md",
+    "COUNT.md",
     "SUM.md",
     "AVG.md",
     "MAX.md",
     "MIN.md",
     "CHAR.md",
-    "Excalidraw/Solving SQL Flowchart.md",
     "How to Solve SQL Problems.md",
     "Untitled.canvas",
     "TABLE.md",
@@ -281,7 +319,6 @@
     "PRIMARY KEY.md",
     "NULL.md",
     "ALIAS or AS.md",
-    "COLUMN.md",
     "category-folder"
   ]
 }

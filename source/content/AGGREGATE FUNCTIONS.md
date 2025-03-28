@@ -33,13 +33,10 @@ FROM
 - [[MAX]]
 
 # Example
-```sql
-
-```
-
+See [[GROUP BY Vs  PARTITION BY]] and [[AGGREGATE WINDOW FUNCTIONS]] for examples.
 
 # Intuition
-
+After grouping, use an aggregate function to extract a property of that group. Each property has a different aggregate function to use.
 
 
 #Query_Design_and_Logic 
