@@ -13,73 +13,42 @@ There are multiple different types of joins that have different use cases. The o
 
 ## Demonstration of Each JOIN
 Using the simple following example:
+
+
+{{% raw %}}
 <div style="display: flex; justify-content: space-between;">
-
   <div style="width: 48%;">
-
     <h3>Table 1: employees</h3>
     <table>
       <thead>
-        <tr>
-          <th>employee_id</th>
-          <th>name</th>
-        </tr>
+        <tr><th>employee_id</th><th>name</th></tr>
       </thead>
       <tbody>
-        <tr>
-          <td>1</td>
-          <td>Rob</td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>Javan</td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td>Mari</td>
-        </tr>
-        <tr>
-          <td>4</td>
-          <td>Ross</td>
-        </tr>
+        <tr><td>1</td><td>Rob</td></tr>
+        <tr><td>2</td><td>Javan</td></tr>
+        <tr><td>3</td><td>Mari</td></tr>
+        <tr><td>4</td><td>Ross</td></tr>
       </tbody>
     </table>
-
   </div>
 
   <div style="width: 48%;">
-
     <h3>Table 2: employee_salaries</h3>
     <table>
       <thead>
-        <tr>
-          <th>employee_id</th>
-          <th>salary</th>
-        </tr>
+        <tr><th>employee_id</th><th>salary</th></tr>
       </thead>
       <tbody>
-        <tr>
-          <td>3</td>
-          <td>12570</td>
-        </tr>
-        <tr>
-          <td>4</td>
-          <td>100000</td>
-        </tr>
-        <tr>
-          <td>5</td>
-          <td>55000</td>
-        </tr>
-        <tr>
-          <td>6</td>
-          <td>46000</td>
-        </tr>
+        <tr><td>3</td><td>12570</td></tr>
+        <tr><td>4</td><td>100000</td></tr>
+        <tr><td>5</td><td>55000</td></tr>
+        <tr><td>6</td><td>46000</td></tr>
       </tbody>
     </table>
-
   </div>
-
 </div>
+{{% /raw %}}
+
 
 The following show the results for each join on these tables (joining on employee_id).
 
