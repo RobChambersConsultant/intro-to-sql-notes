@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOIN.md",
+                "file": "GROUP BY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JOIN"
+              "title": "GROUP BY"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOIN.md",
+                "file": "GROUP BY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JOIN"
+              "title": "Backlinks for GROUP BY"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOIN.md",
+                "file": "GROUP BY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JOIN"
+              "title": "Outgoing links from GROUP BY"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOIN.md",
+                "file": "GROUP BY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JOIN"
+              "title": "Outline of GROUP BY"
             }
           }
         ]
@@ -183,6 +183,7 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "NULL.md",
+    "JOIN.md",
     "GROUP BY.md",
     "FOREIGN KEY.md",
     "index.md",
