@@ -4,7 +4,6 @@ Used to rename objects in SQL. Here objects can mean anything: [[TABLE]], [[SUBQ
 # Syntax
 ```sql
 object_to_be_renamed AS new_object_name
-
 ```
 
 # Common use case

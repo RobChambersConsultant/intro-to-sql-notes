@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTEGER.md",
+                "file": "AGGREGATE WINDOW FUNCTIONS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "INTEGER"
+              "title": "AGGREGATE WINDOW FUNCTIONS"
+            }
+          },
+          {
+            "id": "5fe6538645c859d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STRING.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "STRING"
             }
           }
         ],
@@ -153,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTEGER.md",
+                "file": "AGGREGATE WINDOW FUNCTIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for INTEGER"
+              "title": "Backlinks for AGGREGATE WINDOW FUNCTIONS"
             }
           },
           {
@@ -172,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTEGER.md",
+                "file": "AGGREGATE WINDOW FUNCTIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from INTEGER"
+              "title": "Outgoing links from AGGREGATE WINDOW FUNCTIONS"
             }
           },
           {
@@ -201,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTEGER.md",
+                "file": "AGGREGATE WINDOW FUNCTIONS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of INTEGER"
+              "title": "Outline of AGGREGATE WINDOW FUNCTIONS"
             }
           }
         ]
@@ -231,18 +255,29 @@
   },
   "active": "9db54d6ac4eb3531",
   "lastOpenFiles": [
-    "INTEGER.md",
+    "AGGREGATE WINDOW FUNCTIONS.md",
     "CHAR.md",
-    "index.md",
+    "INTEGER.md",
+    "TYPE.md",
+    "STRING.md",
+    "TABLE.md",
+    "SELECT.md",
+    "SCHEMA.md",
+    "ROWS.md",
+    "PRIMARY KEY.md",
+    "NULL.md",
     "JOIN.md",
+    "WHERE.md",
+    "ALIAS or AS.md",
     "COLUMN.md",
     "CONSTRAINT.md",
     "CREATE.md",
     "CTE.md",
+    "DATABASE.md",
+    "FOREIGN KEY.md",
+    "index.md",
     "GROUP BY Vs  PARTITION BY.md",
     "GROUP BY.md",
-    "NULL.md",
-    "FOREIGN KEY.md",
     "category-folder/Some note.md",
     "category-folder/index.md",
     "category-folder"
