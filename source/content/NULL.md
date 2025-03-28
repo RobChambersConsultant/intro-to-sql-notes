@@ -14,4 +14,4 @@ NOT NULL
 `NULL` is often seen when using a [[CREATE]] table statement in the definition of the columns to dictate whether or not that column can have empty values.
 
 
-#kubricksqlnote
+#Data_Types 

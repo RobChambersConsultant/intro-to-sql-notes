@@ -9,5 +9,4 @@ They can have [[CONSTRAINT]]s.
 Each table must have a [[PRIMARY KEY]].
 
 
-
-#kubricksqlnote
+#Database_Structure

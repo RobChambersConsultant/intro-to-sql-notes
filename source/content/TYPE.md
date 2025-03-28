@@ -16,4 +16,4 @@ Types in SQL put constraints on values - e.g. if something is an INTEGER, it can
 
 
 
-#kubricksqlnote
+#Data_Types 

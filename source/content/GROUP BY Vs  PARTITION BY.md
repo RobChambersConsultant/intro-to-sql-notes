@@ -79,4 +79,5 @@ GROUP BY person;
 
 
 
-#intuition
+#Query_Design_and_Logic 
+#Problem_Solving_Strategy 

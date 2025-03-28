@@ -56,4 +56,4 @@ This is probably one of the topics that is hardest to get a good intuition for. 
 3. Am I using `GROUP BY` already? If so, what will the groups look like after this grouping is done (run an example query to see). It is this example table that your window function will run on. 
 
 
-#kubricksqlnote
+#Query_Design_and_Logic

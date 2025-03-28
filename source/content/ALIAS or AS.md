@@ -26,4 +26,4 @@ FROM
 Renaming data objects for clarity to the *human* reader of the SQL file. 
 
 
-#kubricksqlnote
+#Query_Design_and_Logic

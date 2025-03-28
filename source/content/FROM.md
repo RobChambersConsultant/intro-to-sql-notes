@@ -31,4 +31,4 @@ FROM
 # Intuition
 The intuition is simple for this: you need to tell the SQL engine where to look for the data.
 
-#kubricksqlnote
+#Query_Design_and_Logic 

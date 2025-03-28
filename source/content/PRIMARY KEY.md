@@ -4,4 +4,4 @@ Because it needs to be a unique identifier, it cannot be [[NULL]].
 
 A primary key can be used as a [[FOREIGN KEY]] in another database.
  
- #kubricksqlnote 
+ #Database_Structure 

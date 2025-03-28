@@ -25,4 +25,4 @@ FROM
 # Intuition
 Telling the SQL engine which columns you want to appear in your final dataset.
 
-#kubricksqlnote
+#Query_Design_and_Logic 
