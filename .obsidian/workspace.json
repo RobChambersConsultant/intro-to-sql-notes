@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/WHERE.md",
+                "file": "source/content/AGGREGATE FUNCTIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WHERE"
+              "title": "AGGREGATE FUNCTIONS"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/WHERE.md",
+                "file": "source/content/AGGREGATE FUNCTIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WHERE"
+              "title": "Backlinks for AGGREGATE FUNCTIONS"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/WHERE.md",
+                "file": "source/content/AGGREGATE FUNCTIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WHERE"
+              "title": "Outgoing links from AGGREGATE FUNCTIONS"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/WHERE.md",
+                "file": "source/content/AGGREGATE FUNCTIONS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WHERE"
+              "title": "Outline of AGGREGATE FUNCTIONS"
             }
           }
         ]
@@ -255,10 +255,15 @@
   },
   "active": "0c405a94dfad0218",
   "lastOpenFiles": [
-    "source/content/USE.md",
+    "source/content/Templates/SQL NOTE TEMPLATE.md",
     "source/content/TYPE.md",
-    "source/content/TABLE.md",
     "source/content/STRING.md",
+    "source/content/FROM.md",
+    "source/content/WHERE.md",
+    "source/content/Untitled.canvas",
+    "source/content/AGGREGATE FUNCTIONS.md",
+    "source/content/USE.md",
+    "source/content/TABLE.md",
     "source/content/SELECT.md",
     "source/content/SCHEMA.md",
     "source/content/ROWS.md",
@@ -270,15 +275,12 @@
     "source/content/GROUP BY Vs  PARTITION BY.md",
     "source/content/How to Solve SQL Problems.md",
     "source/content/GROUP BY.md",
-    "source/content/FROM.md",
     "source/content/FOREIGN KEY.md",
     "source/content/DATABASE.md",
     "source/content/CTE.md",
     "source/content/CREATE.md",
     "source/content/CONSTRAINT.md",
     "source/content/AGGREGATE WINDOW FUNCTIONS.md",
-    "source/content/COLUMN.md",
-    "source/content/CHAR.md",
-    "source/content/ALIAS or AS.md"
+    "source/content/COLUMN.md"
   ]
 }

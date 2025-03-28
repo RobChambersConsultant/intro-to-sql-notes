@@ -19,4 +19,4 @@
 
 
 
-#kubricksqlnote
+#Query_Design_and_Logic 
