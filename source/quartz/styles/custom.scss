@@ -1,3 +1,38 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// Custom styles for colored italics and bold
+.italic {
+    font-style: italic;
+    color: #de7c7b; // Gray color for italics
+}
+
+.bold {
+    font-weight: bold;
+    color: #f17f6a; // Blue color for bold
+}
+
+// Custom styles for different tiers of headings
+h1 {
+    color: #4a90e2; // Blue for h1
+}
+
+h2 {
+    color: #50e3c2; // Teal for h2
+}
+
+h3 {
+    color: #f5a623; // Orange for h3
+}
+
+h4 {
+    color: #bd10e0; // Purple for h4
+}
+
+h5 {
+    color: #7ed321; // Green for h5
+}
+
+h6 {
+    color: #d0021b; // Red for h6
+}
