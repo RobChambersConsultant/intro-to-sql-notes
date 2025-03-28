@@ -14,8 +14,6 @@ There are multiple different types of joins that have different use cases. The o
 ## Demonstration of Each JOIN
 Using the simple following example:
 
-
-{{% raw %}}
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%;">
     <h3>Table 1: employees</h3>
@@ -47,7 +45,6 @@ Using the simple following example:
     </table>
   </div>
 </div>
-{{% /raw %}}
 
 
 The following show the results for each join on these tables (joining on employee_id).

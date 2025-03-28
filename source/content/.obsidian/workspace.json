@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTE.md",
+                "file": "CHAR.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CTE"
+              "title": "CHAR"
+            }
+          },
+          {
+            "id": "1a6359e065bf4d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOIN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "JOIN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTE.md",
+                "file": "JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CTE"
+              "title": "Backlinks for JOIN"
             }
           },
           {
@@ -123,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTE.md",
+                "file": "JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CTE"
+              "title": "Outgoing links from JOIN"
             }
           },
           {
@@ -152,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTE.md",
+                "file": "JOIN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CTE"
+              "title": "Outline of JOIN"
             }
           }
         ]
@@ -180,8 +205,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "1a6359e065bf4d6c",
   "lastOpenFiles": [
+    "CHAR.md",
+    "COLUMN.md",
+    "CONSTRAINT.md",
+    "CREATE.md",
+    "CTE.md",
     "GROUP BY Vs  PARTITION BY.md",
     "GROUP BY.md",
     "NULL.md",

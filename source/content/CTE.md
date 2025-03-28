@@ -79,6 +79,11 @@ FROM
 ```
 If you think this is a better and more readable solution, allow me to direct you to some [help]([therapy near me - Search](https://www.bing.com/search?q=therapy%20near%20me&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=therapy%20near%20me&sc=12-15&sk=&cvid=5C2C14E1A569481EBE19158D0A935B25&ghsh=0&ghacc=0&ghpl=)).
 # Intuition
+Think:
+ >Is my code readable or is there too much going on?
+ >
+ >Am I using a subquery multiple times?
+ 
 
 
 

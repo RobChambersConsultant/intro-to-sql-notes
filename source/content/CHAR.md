@@ -1,0 +1,1 @@
+`CHAR` is an alphanumeric SQL type that takes an `INTEGER` type as input. It specifies an exact length string. 
