@@ -11,11 +11,19 @@ Grouping allows [[AGGREGATE FUNCTIONS]] to be used - they cannot be used without
 
 # Syntax
 ```sql
-
+SELECT
+	*
+FROM
+	table_name
+GROUP BY
+	column_1, column_2
 ```
 
 # Common use case
-
+`GROUP BY` is used when you want to extract properties of groups of data. Common groups might be:
+- Grouping by `employee_id` to get information about each employee
+- Grouping by date to get information on everything that happened on a given day
+- Grouping by country, and then city name to get information on each city within a country
 
 # Example
 ```sql
