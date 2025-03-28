@@ -5,4 +5,4 @@ Each database can have different [[SCHEMA]], but these are not important for DQL
 
 
 
-#kubricksqlnote
+#Database_Structure 

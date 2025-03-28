@@ -6,4 +6,4 @@ Each table exists in a [[DATABASE]]. Tables in databases are linked via [[PRIMAR
 
 
 
-#kubricksqlnote
+#Database_Structure 

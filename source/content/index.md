@@ -11,3 +11,5 @@ Key words (highlighted in blue) are hyperlinks to other pages. Hover over them t
 The *graph view* shows you how each concept or page links to all other pages. Take a look at this to get an overview of everything at once and the relationships between different pages.
 
 *Backlinks* show where this table is mentioned in other pages in case you want some extra context for the page you are currently reading.
+
+#Database_Structure 

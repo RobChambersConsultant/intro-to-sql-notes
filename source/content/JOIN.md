@@ -266,4 +266,4 @@ When tackling JOINs, think through these steps (loosely in this order):
 	3. If I want all rows in both table to be retrieved, even if a match cannot be found between every row, use `FULL OUTER JOIN`.
 
 
-#kubricksqlnote
+#Query_Design_and_Logic 

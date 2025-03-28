@@ -4,4 +4,4 @@ A row, or record, in a [[TABLE]] is a single entry of data. Each row will have a
 
 
 
-#kubricksqlnote
+#Database_Structure 
