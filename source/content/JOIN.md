@@ -48,8 +48,7 @@ Using the simple following example:
 
 
 The following show the results for each join on these tables (joining on `employee_id`).
-{{% raw %}}
-  <div style="width: 32%;">
+  <div style="width: 50%;">
     <h3>INNER JOIN Result</h3>
     <table>
       <thead>
@@ -73,10 +72,8 @@ The following show the results for each join on these tables (joining on `employ
       </tbody>
     </table>
   </div>
-  {{% raw %}}
 *NOTE: No NULLs, missing information from both databases.*
-{{% raw %}}
-  <div style="width: 32%;">
+  <div style="width: 50%;">
     <h3>LEFT JOIN Result</h3>
     <table>
       <thead>
@@ -115,9 +112,7 @@ The following show the results for each join on these tables (joining on `employ
 	- Contains all rows from left database.
 	- Missing information from right databases.
 	- The column from the right database is NULLABLE.*
-{{% raw %}}
   <div style="width: 32%;">
-
     <h3>FULL OUTER JOIN Result</h3>
     <table>
       <thead>
@@ -160,9 +155,8 @@ The following show the results for each join on these tables (joining on `employ
         </tr>
       </tbody>
     </table>
-
   </div>
-  {{% raw %}}
+
 *NOTE: 
 	- Contains all information from both databases.
 	- Rows are matched where possible, replace unmatched data with NULL.
