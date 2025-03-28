@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGGREGATE WINDOW FUNCTIONS.md",
+                "file": "How to Solve SQL Problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,43 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AGGREGATE WINDOW FUNCTIONS"
+              "title": "How to Solve SQL Problems"
+            }
+          },
+          {
+            "id": "59e768533ca3628d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Solving SQL Flowchart.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Solving SQL Flowchart"
+            }
+          },
+          {
+            "id": "7322440bb90e9cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Solve SQL Problems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to Solve SQL Problems"
             }
           },
           {
@@ -104,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGGREGATE WINDOW FUNCTIONS.md",
+                "file": "Excalidraw/Drawing 2025-03-28 14.21.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AGGREGATE WINDOW FUNCTIONS"
+              "title": "Backlinks for Drawing 2025-03-28 14.21.35.excalidraw"
             }
           },
           {
@@ -196,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGGREGATE WINDOW FUNCTIONS.md",
+                "file": "Excalidraw/Drawing 2025-03-28 14.21.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AGGREGATE WINDOW FUNCTIONS"
+              "title": "Outgoing links from Drawing 2025-03-28 14.21.35.excalidraw"
             }
           },
           {
@@ -225,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGGREGATE WINDOW FUNCTIONS.md",
+                "file": "Excalidraw/Drawing 2025-03-28 14.21.35.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AGGREGATE WINDOW FUNCTIONS"
+              "title": "Outline of Drawing 2025-03-28 14.21.35.excalidraw"
             }
           }
         ]
@@ -250,11 +286,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9db54d6ac4eb3531",
+  "active": "5fe6538645c859d3",
   "lastOpenFiles": [
+    "Excalidraw/Solving SQL Flowchart.md",
+    "How to Solve SQL Problems.md",
+    "Excalidraw/sql_flowchart.excalidraw.json",
+    "Excalidraw/Drawing 2025-03-28 14.21.35.excalidraw.md",
+    "Excalidraw/Solving SQL Problems Flowchart.excalidraw.md",
+    "Excalidraw",
     "AGGREGATE WINDOW FUNCTIONS.md",
     "CHAR.md",
     "INTEGER.md",
@@ -276,10 +319,6 @@
     "DATABASE.md",
     "FOREIGN KEY.md",
     "index.md",
-    "GROUP BY Vs  PARTITION BY.md",
-    "GROUP BY.md",
-    "category-folder/Some note.md",
-    "category-folder/index.md",
     "category-folder"
   ]
 }

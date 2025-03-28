@@ -1,0 +1,1 @@
+String is a alphanumeric [[TYPE]] in SQL.
