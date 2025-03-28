@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAR.md",
+                "file": "AGGREGATE FUNCTIONS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CHAR"
+              "title": "AGGREGATE FUNCTIONS"
+            }
+          },
+          {
+            "id": "abf299490326385f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MIN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MIN"
             }
           },
           {
@@ -102,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,8 +179,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,15 +276,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9db54d6ac4eb3531",
+  "active": "abf299490326385f",
   "lastOpenFiles": [
+    "MIN.md",
+    "AGGREGATE FUNCTIONS.md",
+    "CHAR.md",
+    "Excalidraw/Solving SQL Flowchart.md",
     "How to Solve SQL Problems.md",
     "Untitled.canvas",
-    "Excalidraw/Solving SQL Flowchart.md",
     "TABLE.md",
     "ROWS.md",
     "SCHEMA.md",
-    "AGGREGATE FUNCTIONS.md",
     "AGGREGATE WINDOW FUNCTIONS.md",
     "WHERE.md",
     "SELECT.md",
@@ -272,7 +297,6 @@
     "Excalidraw/Drawing 2025-03-28 14.21.35.excalidraw.md",
     "Excalidraw/Solving SQL Problems Flowchart.excalidraw.md",
     "Excalidraw",
-    "CHAR.md",
     "INTEGER.md",
     "TYPE.md",
     "PRIMARY KEY.md",
