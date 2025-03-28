@@ -112,7 +112,7 @@ The following show the results for each join on these tables (joining on `employ
 	- Contains all rows from left database.
 	- Missing information from right databases.
 	- The column from the right database is NULLABLE.*
-  <div style="width: 32%;">
+  <div style="width: 50%;">
     <h3>FULL OUTER JOIN Result</h3>
     <table>
       <thead>
