@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOIN.md",
+                "file": "CHAR.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JOIN"
+              "title": "CHAR"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOIN.md",
+                "file": "CHAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JOIN"
+              "title": "Backlinks for CHAR"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOIN.md",
+                "file": "CHAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JOIN"
+              "title": "Outgoing links from CHAR"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOIN.md",
+                "file": "CHAR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of JOIN"
+              "title": "Outline of CHAR"
             }
           }
         ]
@@ -207,6 +207,7 @@
   },
   "active": "1a6359e065bf4d6c",
   "lastOpenFiles": [
+    "JOIN.md",
     "CHAR.md",
     "COLUMN.md",
     "CONSTRAINT.md",
@@ -215,7 +216,6 @@
     "GROUP BY Vs  PARTITION BY.md",
     "GROUP BY.md",
     "NULL.md",
-    "JOIN.md",
     "FOREIGN KEY.md",
     "index.md",
     "category-folder/Some note.md",
