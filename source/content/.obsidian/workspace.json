@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NULLIF.md",
+                "file": "Query Design and Logic/NULLIF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -194,11 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3e0e9da997eb987b",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "NULLIF.md",
-    "BIT.md",
-    "COALESCE.md",
+    "Query Design and Logic/NULLIF.md",
+    "Data Types/BIT.md",
+    "Query Design and Logic/COALESCE.md",
     "Query Design and Logic/AGGREGATE FUNCTIONS.md",
     "Data Types/Numeric Types/FLOAT.md",
     "Data Types/Numeric Types/NUMERIC.md",
