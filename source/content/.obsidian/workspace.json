@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3e0e9da997eb987b",
+            "id": "2c550f7b0a459760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Query Design and Logic/NULLIF.md",
+                "file": "Query Design and Logic/Built-in Functions/GETDATE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NULLIF"
+              "title": "GETDATE"
             }
           }
         ],
@@ -194,11 +194,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2c550f7b0a459760",
   "lastOpenFiles": [
-    "Query Design and Logic/NULLIF.md",
+    "Query Design and Logic/Built-in Functions/COALESCE.md",
+    "Query Design and Logic/Built-in Functions/GETDATE.md",
+    "Query Design and Logic/Built-in Functions/SQRT.md",
+    "Query Design and Logic/Built-in Functions/NULLIF.md",
+    "Query Design and Logic/Aggregate Functions",
+    "Query Design and Logic/Built-in Functions",
     "Data Types/BIT.md",
-    "Query Design and Logic/COALESCE.md",
     "Query Design and Logic/AGGREGATE FUNCTIONS.md",
     "Data Types/Numeric Types/FLOAT.md",
     "Data Types/Numeric Types/NUMERIC.md",
@@ -224,14 +228,10 @@
     "Data Types/Numeric Types/DECIMAL.md",
     "Data Types/Datetime Types/DATETIME.md",
     "Data Types/Datetime Types/DATE.md",
-    "Data Types/Text-like Types/CHAR.md",
-    "Data Types/Datetime Types/DATETIMEOFFSET.md",
     "Untitled.canvas",
     "Problem Solving and Strategy",
     "SQL Creation and Modification",
     "Query Design and Logic",
-    "Data Types",
-    "Database Structure",
-    "Excalidraw/sql_flowchart.excalidraw.json"
+    "Data Types"
   ]
 }

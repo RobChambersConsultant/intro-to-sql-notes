@@ -9,6 +9,14 @@ FROM
 ```
 Here, `nullable_column` is the column you are checking for `NULL` values. `default_value` is, unsurprisingly, the default value that function will return if `nullable_column` is `NULL`.
 
+We can also check other columns before returning our default value:
+```sql
+SELECT
+	COALESCE(nullable_col_1, nullable_col_2, col_3, default_value) AS alias
+FROM
+	target_table
+```
+(I'd completely forgotten about this feature so shout out to Jules notes for this one.)
 # Example
 Here is an example from AdventureWorks Subquery and CTE exercise:
 ```sql
