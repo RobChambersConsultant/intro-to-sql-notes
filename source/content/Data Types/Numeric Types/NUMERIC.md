@@ -1,0 +1,1 @@
+Functionally identical to [[DECIMAL]] meaning they are completely interchangeable.

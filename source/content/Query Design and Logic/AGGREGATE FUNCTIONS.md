@@ -36,7 +36,7 @@ FROM
 See [[GROUP BY Vs  PARTITION BY]] and [[AGGREGATE WINDOW FUNCTIONS]] for examples.
 
 # Intuition
-After grouping, use an aggregate function to extract a property of that group. Each property has a different aggregate function to use.
+After grouping, use an aggregate function to extract a property of that group. Each property is extracted by a different aggregate function.
 
 
 #Query_Design_and_Logic 
