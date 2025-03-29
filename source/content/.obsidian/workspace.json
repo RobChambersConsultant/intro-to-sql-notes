@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "af0661aaf578a9fb",
+            "id": "3e0e9da997eb987b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COALESCE.md",
+                "file": "NULLIF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "COALESCE"
+              "title": "NULLIF"
             }
           }
         ],
@@ -194,8 +194,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "af0661aaf578a9fb",
+  "active": "3e0e9da997eb987b",
   "lastOpenFiles": [
+    "NULLIF.md",
+    "BIT.md",
     "COALESCE.md",
     "Query Design and Logic/AGGREGATE FUNCTIONS.md",
     "Data Types/Numeric Types/FLOAT.md",
@@ -224,8 +226,6 @@
     "Data Types/Datetime Types/DATE.md",
     "Data Types/Text-like Types/CHAR.md",
     "Data Types/Datetime Types/DATETIMEOFFSET.md",
-    "Data Types/Datetime Types/DATETIME2.md",
-    "Data Types/Datetime Types/TIME.md",
     "Untitled.canvas",
     "Problem Solving and Strategy",
     "SQL Creation and Modification",

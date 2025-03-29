@@ -10,4 +10,16 @@ FROM
 Here, `nullable_column` is the column you are checking for `NULL` values. `default_value` is, unsurprisingly, the default value that function will return if `nullable_column` is `NULL`.
 
 # Example
-
+Here is an example from AdventureWorks Subquery and CTE exercise:
+```sql
+SELECT
+    CustomerID
+    ,Name = CASE
+        WHEN NameStyle = 'TITLE' THEN Coalesce(Title + ' ', '') + FirstName + Coalesce(' ' + MiddleName + ' ', ' ') + LastName
+        WHEN NameStyle = 'FIRST' THEN FirstName
+        WHEN NameStyle = 'FULL' THEN FirstName + ' ' + LastName
+    END
+FROM
+    Customer
+```
+In this problem, you don't know whether someone will have a title or middle name so you have to handle the case when those values are `NULL`.
