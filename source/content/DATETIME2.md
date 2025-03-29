@@ -1,0 +1,1 @@
+The same as [[DATETIME]] but to an accuracy of 100ns.

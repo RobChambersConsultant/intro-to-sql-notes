@@ -1,0 +1,1 @@
+`DATE` is a type in SQL that stores the date (YYYY-MM-DD). 

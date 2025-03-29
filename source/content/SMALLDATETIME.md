@@ -1,0 +1,1 @@
+`SMALLDATETIME` is a [[TYPE]] in SQL. It is used to store date and time to an accuracy of 1 minute.

@@ -1,0 +1,1 @@
+Same as [[DATETIME2]] but also includes the time zone offset.

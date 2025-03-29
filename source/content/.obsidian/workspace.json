@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "fbd606d20fbced80",
+        "id": "294d543ee50727d0",
         "type": "tabs",
         "children": [
           {
-            "id": "bebcdf0baf26d71b",
+            "id": "f06e2eb273ff6c02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data Types/DATETIME.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DATETIME"
             }
           }
         ]
@@ -167,8 +181,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bebcdf0baf26d71b",
+  "active": "f06e2eb273ff6c02",
   "lastOpenFiles": [
+    "DATETIMEOFFSET.md",
+    "Data Types/DATETIME.md",
+    "DATETIME2.md",
+    "TIME.md",
+    "SMALLDATETIME.md",
+    "Data Types/DATE.md",
+    "Data Types/STRING.md",
+    "Data Types/VARCHAR.md",
+    "Data Types/DECIMAL.md",
+    "Data Types/TYPE.md",
+    "Database Structure/COLUMN.md",
+    "Database Structure/DATABASE.md",
+    "Database Structure/FOREIGN KEY.md",
+    "Database Structure/PRIMARY KEY.md",
+    "Database Structure/SCHEMA.md",
+    "Database Structure/TABLE.md",
+    "Database Structure/USE.md",
     "Untitled.canvas",
     "SQL Creation and Modification/UPDATE.md",
     "Problem Solving and Strategy",
@@ -178,30 +209,14 @@
     "Database Structure",
     "Query Design and Logic/FROM.md",
     "Problem Solving and Strategy/How to Solve SQL Problems.md",
-    "Data Types/DECIMAL.md",
     "Query Design and Logic/AGGREGATE FUNCTIONS.md",
     "Excalidraw/Solving SQL Flowchart.md",
     "Query Design and Logic/COUNT.md",
     "Query Design and Logic/SUM.md",
     "Query Design and Logic/AVG.md",
     "Query Design and Logic/MAX.md",
-    "Query Design and Logic/MIN.md",
-    "Data Types/CHAR.md",
-    "Database Structure/TABLE.md",
-    "Database Structure/ROWS.md",
-    "Database Structure/SCHEMA.md",
-    "Query Design and Logic/AGGREGATE WINDOW FUNCTIONS.md",
-    "Query Design and Logic/WHERE.md",
-    "Query Design and Logic/SELECT.md",
-    "Query Design and Logic/JOIN.md",
-    "Query Design and Logic/GROUP BY.md",
-    "Data Types/STRING.md",
     "Excalidraw/sql_flowchart.excalidraw.json",
-    "Excalidraw/Drawing 2025-03-28 14.21.35.excalidraw.md",
-    "Excalidraw/Solving SQL Problems Flowchart.excalidraw.md",
     "Excalidraw",
-    "Data Types/INTEGER.md",
-    "Data Types/TYPE.md",
     "category-folder"
   ]
 }

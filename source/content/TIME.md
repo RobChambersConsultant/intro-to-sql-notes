@@ -1,0 +1,1 @@
+`TIME` is a [[TYPE]] in SQL. It is used to store time (HH:MM:SS.sss).
